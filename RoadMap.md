@@ -10,12 +10,12 @@
 
 ## Topics
 
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Hash Tables
-- [ ] Two Pointers
+- [x] Two Pointers
 - [ ] Prefix Sum
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Sorting
 
 ### Recommended Problems
@@ -26,13 +26,13 @@
 
 ### Skills Gained
 
-- Array Traversal
+- Array Traversal✅
 - Hash Maps
 - Hash Sets
-- Two Pointer Technique
+- Two Pointer Technique✅
 - Prefix Sum
-- Binary Search
-- Time & Space Complexity Analysis
+- Binary Search✅
+- Time & Space Complexity Analysis✅
 
 ---
 
